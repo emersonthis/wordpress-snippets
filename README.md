@@ -11,9 +11,12 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [Remove quicktags from text editor](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-quicktags-from-text-editor.php)
 
 ### Security
-*
+* [coming soon]
 
 ### Piklist
-* Custom post type
-* Custom taxonomy
+* Custom post type [coming soon]
+* Custom taxonomy [coming soon]
 * 
+
+### Performance
+* [Remove unnecessary junk in the header](https://github.com/emersonthis/wordpress-snippets/blob/master/cleanup-header.php)
