@@ -1,0 +1,5 @@
+function emersonthis_mce_buttons_2( $buttons ) { 
+    $buttons = [];
+    return $buttons;
+}
+add_filter( 'mce_buttons_2', 'emersonthis_mce_buttons_2' );
