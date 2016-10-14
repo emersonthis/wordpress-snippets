@@ -10,6 +10,7 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [Remove dashboard menu items](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-dashboard-menu-pages.php)
 * [Disable visual editor](https://github.com/emersonthis/wordpress-snippets/blob/master/disable-visual-editor.php)
 * [Remove quicktags from text editor](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-quicktags-from-text-editor.php)
+* [Require excerpt for posts](https://github.com/emersonthis/wordpress-snippets/blob/master/require-excerpt.php)
 
 ### Security
 * [coming soon]
