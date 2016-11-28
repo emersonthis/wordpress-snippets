@@ -1,4 +1,4 @@
-# Wordpress Toolbox
+# WordPress Toolbox
 This repository is a collection of code snippets I reuse all the time. The focus is on drop-in code snippets. Pull requests are welcome. Say hi to me on Twitter: [@emersonthis](https://twitter.com/emersonthis).
 
 ### Client-proofing and Dashboard customization:
