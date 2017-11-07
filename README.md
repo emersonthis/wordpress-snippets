@@ -13,6 +13,9 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [Require excerpt for posts](https://github.com/emersonthis/wordpress-snippets/blob/master/require-excerpt.php)
 * [Customize the block formats in TinyMCE](https://github.com/emersonthis/wordpress-snippets/blob/master/customize-block-formats.php)
 
+### Theme customizations
+* [Modify excerpt length](https://github.com/emersonthis/wordpress-snippets/blob/master/filter-excerpt-length.php)
+
 ### Security
 * [coming soon]
 
