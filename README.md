@@ -21,6 +21,7 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [coming soon]
 
 ### Piklist
+* [Warn the admin if Piklist isn't installed...](https://github.com/emersonthis/wordpress-snippets/blob/master/piklist-theme-checker.php)
 * Custom post type [coming soon]
 * Custom taxonomy [coming soon]
 * 
