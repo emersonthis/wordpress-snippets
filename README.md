@@ -22,7 +22,7 @@ This repository is a collection of code snippets I reuse all the time. The focus
 
 ### Piklist
 * [Warn the admin if Piklist isn't installed...](https://github.com/emersonthis/wordpress-snippets/blob/master/piklist-checker.php)
-* Custom post type [coming soon]
+* [Custom post type](https://github.com/emersonthis/wordpress-snippets/blob/master/piklist-custom-post-type.php)
 * Custom taxonomy [coming soon]
 * 
 
