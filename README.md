@@ -16,6 +16,7 @@ This repository is a collection of code snippets I reuse all the time. The focus
 ### Theme customizations
 * [Modify excerpt length](https://github.com/emersonthis/wordpress-snippets/blob/master/filter-excerpt-length.php)
 * [Remove prefixes from archive page titles](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-prefix-from-archive-title.php)
+* [Customize the_excerpt() "Read more"](https://github.com/emersonthis/wordpress-snippets/blob/master/change-the_excerpt-read-more.php)
 
 ### Security
 * [coming soon]
