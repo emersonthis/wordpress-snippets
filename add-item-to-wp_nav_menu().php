@@ -11,3 +11,12 @@ function emersonthis_nav_wrap() {
   // return the result
   return $wrap;
 }
+// Call for the new wp_nav_menu somewhere in the template files...
+/*
+<nav>
+  <?php wp_nav_menu(array(
+    'theme_location' => 'my_menu_location',
+    'items_wrap' => my_nav_wrap()
+  )); ?>
+</nav>
+*/
