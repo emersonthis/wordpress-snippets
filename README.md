@@ -13,6 +13,8 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [Require excerpt for posts](https://github.com/emersonthis/wordpress-snippets/blob/master/require-excerpt.php)
 * [Customize the block formats in TinyMCE](https://github.com/emersonthis/wordpress-snippets/blob/master/customize-block-formats.php)
 * [Remove "Additional CSS" section from customizer](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-theme-custom-css.php) 
+* [Customize Tiny MCE block styles](https://github.com/emersonthis/wordpress-snippets/blob/master/customize-mce-block-styles.php)
+
 ### Theme customizations
 * [Modify excerpt length](https://github.com/emersonthis/wordpress-snippets/blob/master/filter-excerpt-length.php)
 * [Remove prefixes from archive page titles](https://github.com/emersonthis/wordpress-snippets/blob/master/remove-prefix-from-archive-title.php)
