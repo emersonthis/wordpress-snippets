@@ -19,6 +19,7 @@ This repository is a collection of code snippets I reuse all the time. The focus
 * [Customize the_excerpt() "Read more"](https://github.com/emersonthis/wordpress-snippets/blob/master/change-the_excerpt-read-more.php)
 * [Get nav items from a submenu](https://github.com/emersonthis/wordpress-snippets/blob/master/get-nav-items-from-submenu.php)
 * [Add item to `wp_nav_menu()`](https://github.com/emersonthis/wordpress-snippets/blob/master/add-item-to-wp_nav_menu().php)
+* [Disable captions](https://github.com/emersonthis/wordpress-snippets/blob/master/disable-captions.php)
 
 ### Security / Analytics
 * [Log searches](https://github.com/emersonthis/wordpress-snippets/blob/master/log-searches.php)
